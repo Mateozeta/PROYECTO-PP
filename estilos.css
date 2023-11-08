@@ -1,0 +1,106 @@
+body {
+    background: url(../refugiados.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+
+
+
+.titulo {
+color: lightcyan;
+position: relative;
+top:0;
+bottom:0;
+right:0;
+left:0;
+}
+
+
+
+.subtitulo {
+color: lightcyan;
+position: relative;
+top:0;
+bottom:0;
+right:0;
+left:0;
+}
+
+.parrafo1 { width: 40%;
+position: relative;
+top:0;
+bottom:0;
+right:0;
+left:0;
+font-size: 20px;
+background-color: rgba(225, 225, 225, 0.5);
+padding: 10px 15px;
+
+}
+
+
+
+.subtitulo2{
+color: lightcyan;
+position: relative;
+top:0;
+bottom:0;
+right:0;
+left:0;
+}
+
+
+.Niño-refugiado {
+    position: absolute; 
+    left: 100px;
+    top: 500px; 
+}
+
+
+
+.parrafo2 { width: 40%;
+position: absolute;
+left: 25px;
+top: 600px;
+
+background-color:  rgba(225, 225, 225, 0.5);
+padding: 10px 15px;
+}
+
+
+
+
+.subtitulo3 {
+color: lightcyan;
+position: absolute;
+left: 1400px;
+top: 400px;
+
+}
+
+.subtituloHiba {
+color: lightcyan;
+position: absolute;
+left: 1400px;
+top: 450px;
+}
+
+.Hiba{
+    position: absolute; 
+    left: 1400px;
+    top: 500px;
+     
+
+}
+
+
+.parrafo3 { width: 22%;
+position: absolute;
+top: 800px;
+left: 1400px;
+background-color:  rgba(225, 225, 225, 0.5);
+
+padding: 10px 15px;
+}
